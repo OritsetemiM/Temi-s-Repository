@@ -1,4 +1,3 @@
 # Temi-s-Repository
- a readme.md file with my name and WSU email:
-Oritsetemi Maku
-oritsetemi.maku@wsu.edu
+Name: Oritsetemi Maku
+Email: oritsetemi.maku@wsu.edu
